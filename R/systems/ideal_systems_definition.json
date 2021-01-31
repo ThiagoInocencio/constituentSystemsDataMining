@@ -1,0 +1,94 @@
+[
+    {
+        "systemDefinition": {
+            "SystemName": "conferencing02112020",
+            "status": "Beta",
+            "OperationSystems": "linux/windows",
+            "Audience": "education",
+            "Category": "education/video-conferencing/web-conferencing",
+            "Translations": "Brazilian Portuguese/English",
+            "ProgrammingLan": "c#/java/javascript/php",
+            "UserInterface": "web-based",
+            "License": "gnu-general-public-license-version-3.0-(gplv3)"
+        },
+        "params": {
+            "base": "A",
+            "tecnique": {
+                "name": "kmeans",
+                "k": 8,
+                "eps": 1,
+                "MinPts": 50
+            },
+            "numberOfCandidates": 50
+        }
+    },
+    {
+        "systemDefinition": {
+            "SystemName": "conferencing02112020",
+            "status": "Beta",
+            "OperationSystems": "linux/windows",
+            "Audience": "education",
+            "Category": "education/video-conferencing/web-conferencing",
+            "Translations": "Brazilian Portuguese/English",
+            "ProgrammingLan": "c#/java/javascript/php",
+            "UserInterface": "web-based",
+            "License": "gnu-general-public-license-version-3.0-(gplv3)"
+        },
+        "params": {
+            "base": "A",
+            "tecnique": {
+                "name": "ranking",
+                "k": 8,
+                "eps": 1,
+                "MinPts": 50
+            },
+            "numberOfCandidates": 50
+        }
+    },
+    {
+        "systemDefinition": {
+            "SystemName": "conferencing02112020",
+            "status": "Beta",
+            "OperationSystems": "linux/windows",
+            "Audience": "education",
+            "Category": "education/video-conferencing/web-conferencing",
+            "Translations": "Brazilian Portuguese/English",
+            "ProgrammingLan": "c#/java/javascript/php",
+            "UserInterface": "web-based",
+            "License": "gnu-general-public-license-version-3.0-(gplv3)"
+        },
+        "params": {
+            "base": "A",
+            "tecnique": {
+                "name": "hclust",
+                "k": 8,
+                "eps": 1,
+                "MinPts": 50
+            },
+            "numberOfCandidates": 50
+        }
+    },
+    {
+        "systemDefinition": {
+            "SystemName": "conferencing02112020",
+            "status": "Beta",
+            "OperationSystems": "linux/windows",
+            "Audience": "education",
+            "Category": "education/video-conferencing/web-conferencing",
+            "Translations": "Brazilian Portuguese/English",
+            "ProgrammingLan": "c#/java/javascript/php",
+            "UserInterface": "web-based",
+            "License": "gnu-general-public-license-version-3.0-(gplv3)"
+        },
+        "params": {
+            "base": "A",
+            "tecnique": {
+                "name": "dbscan",
+                "k": 8,
+                "eps": 1,
+                "MinPts": 50
+            },
+            "numberOfCandidates": 50
+        }
+    }
+]

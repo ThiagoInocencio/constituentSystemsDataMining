@@ -1,0 +1,25 @@
+[
+    {
+        "systemDefinition": {
+            "SystemName": "conferencing02112020",
+            "status": "Beta",
+            "OperationSystems": "linux/windows",
+            "Audience": "education",
+            "Category": "education/video-conferencing/web-conferencing",
+            "Translations": "Brazilian Portuguese/English",
+            "ProgrammingLan": "c#/java/javascript/php",
+            "UserInterface": "web-based",
+            "License": "gnu-general-public-license-version-3.0-(gplv3)"
+        },
+        "params": {
+            "base": "C",
+            "tecnique": {
+                "name": "dbscan",
+                "k": 8,
+                "eps": 1,
+                "MinPts": 50
+            },
+            "numberOfCandidates": 50
+        }
+    }
+]
